@@ -8,7 +8,7 @@ Welcome to another one of my swift project! This is an in-class project from cou
 Because this app is not published in appstore, in order to test and view its functionalities, please follow these steps:<br>
 1. please ensure you have Xcode installed on your laptop<br>
 2. if you have Xcode installed, please download the code from github, and you should see a folder for it in the directory you downloaded it to.<br>
-3. Once you opened the folder, you should see a file called "JeffreyWang-Lab3.xcodeproj". Please click on it and the code will be opened in Xcode automatically.<br>
+3. Once you opened the folder, you should see a file called "JeffreyWang_lab4.xcodeproj". Please click on it and the code will be opened in Xcode automatically.<br>
 4. On the top-left side of your Xcode interface, there should be a triangular play button. Click on it and it'll launch an iPhone 13 Pro simulator for you which you can test the app on.<br>
 5. Since this is a rapid prototype and there's no constraints setting in this project, please ensure that the simulator is set to "iPhone 13 Pro" for best UI display<br>
 </p>
