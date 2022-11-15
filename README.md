@@ -2,7 +2,7 @@
 
 <h3>Notice</h3>
 <p>
-Welcome to another one of my swift project! This is an in-class project from course CSE 438 "Mobile Application Development" taught by professor Todd Sproull at Washington University in St.Louis.
+Welcome to another one of my swift project! This is an in-class project from course CSE 438 "Mobile Application Development" taught by professor Todd Sproull at Washington University in St.Louis.The data used in this app are fetched from The Movie Database(TMDB) using an API key.
 </p>
 <p>
 Because this app is not published in appstore, in order to test and view its functionalities, please follow these steps:<br>
@@ -13,7 +13,6 @@ Because this app is not published in appstore, in order to test and view its fun
 5. Since this is a rapid prototype and there's no constraints setting in this project, please ensure that the simulator is set to "iPhone 13 Pro" for best UI display<br>
 </p>
 <p>
-The data used in this app are fetched from The Movie Database(TMDB) using an API key.<br>
 This code has been made public only for my personal portfolio purposes. If you are a student at WashU, please note that I do not grant permission for anyone to turn in this code as their in-class project or use part of it in their assignment.
 </p>
 
