@@ -41,4 +41,4 @@ The third button on the tab bar at the bottom of the user interface takes the us
 5. search on YouTube:<br>
 In every movie's detailed-info page, there's a button labeled "YouTube", which takes the users to a web view of a search for the movie's name on YouTube.com. This function will be your friend when you want to see a trailer of the movie or see some fandom works people made for it. <br>
 </p>
-<p>The userDefaults database is used in this app to store your data of movies added to favorite/history list. So, the two lists will be there for you when you turn your Xcode and simulator down and turn them back on again. Have fun with it!</p>
+<p>This app uses the userDefaults database to store your data of movies added to favorite/history list. So, the two lists will be there for you when you turn your Xcode and simulator down and turn them back on again. Have fun with it!</p>
